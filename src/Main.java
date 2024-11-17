@@ -22,8 +22,6 @@ public class Main {
             listObjects.add(curdCream);
             CurdWithGarlic curdWithGarlic = new CurdWithGarlic();
             listObjects.add(curdWithGarlic);
-            WithHam withHam = new WithHam();
-            listObjects.add(withHam);
         }
         Products.userInteraction(listObjects);
     }
